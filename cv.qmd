@@ -1,0 +1,61 @@
+---
+title: "Curriculum Vitae"
+---
+
+> This markdown CV is a starter template based on information that is publicly known. Replace placeholder fields with current details from your Word CV.
+
+## Contact
+
+**Christopher Johnston**  
+Department of Political Science, Duke University  
+Durham, NC  
+Email: christopher.johnston@duke.edu
+
+## Academic appointment
+
+- Duke University, Department of Political Science, Faculty (details to update)
+
+## Research interests
+
+- Public opinion
+- Political behavior
+- Partisanship and polarization
+- Political psychology
+
+## Education
+
+- PhD, (institution), (year)
+- MA, (institution), (year)
+- BA, (institution), (year)
+
+## Publications
+
+### Peer-reviewed articles
+
+1. Add publication details from your current CV.
+2. Add publication details from your current CV.
+3. Add publication details from your current CV.
+
+### Books and chapters
+
+1. Add book/chapter details from your current CV.
+
+## Awards and honors
+
+- Add awards and fellowships.
+
+## Grants
+
+- Add grant title, role, amount, and year.
+
+## Teaching
+
+- List courses taught and years.
+
+## Professional service
+
+- Journal reviewing, editorial boards, professional associations.
+
+## References
+
+Available upon request.
