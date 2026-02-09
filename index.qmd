@@ -1,33 +1,50 @@
 ---
-title: "Home"
+title: "About"
+page-layout: full
 ---
 
-::: {.columns}
-::: {.column width="65%"}
-## Christopher Johnston
+::: {.hero}
+## Christopher D. Johnston {.hero-name}
 
-I am a political scientist at Duke University. My research focuses on public opinion, political behavior, polarization, and electoral politics.
+Professor of Political Science and Sociology at Duke University.
 
-This site provides a central place to find my current CV, research projects, and teaching information.
+My research focuses on political psychology, public opinion, polarization, and electoral behavior.
 
-- [Research overview](research.qmd)
-- [Teaching information](teaching.qmd)
-- [Curriculum vitae](cv.qmd)
+<div class="hero-buttons">
+  <a class="btn btn-primary" href="research.qmd">Research</a>
+  <a class="btn btn-outline-primary" href="cv.qmd">CV</a>
+  <a class="btn btn-outline-primary" href="teaching.qmd">Teaching</a>
+  <a class="btn btn-outline-primary" href="https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+</div>
 :::
 
-::: {.column width="35%"}
+::: {.content-grid}
+::: {.content-card}
+### About
+
+I study the psychological foundations of ideology, identity, and partisan conflict in American politics. My work appears in journals including *American Journal of Political Science*, *Public Opinion Quarterly*, *Political Psychology*, and *Nature Human Behaviour*.
+:::
+
+::: {.content-card}
 ### Contact
 
 **Department of Political Science**  
 Duke University  
 Durham, NC
 
-📧 `christopher.johnston@duke.edu`
+📧 [christopher.johnston@duke.edu](mailto:christopher.johnston@duke.edu)
+:::
 
-[Google Scholar profile](https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en&oi=ao)
+::: {.content-card}
+### Quick links
+
+- [Research page](research.qmd)
+- [Working papers](research.qmd#working-papers)
+- [Teaching](teaching.qmd)
+- [Curriculum vitae](cv.qmd)
 :::
 :::
 
-## News
+## Recent update
 
-I am currently migrating material from my previous site into this Quarto site. Updated publication and course details will continue to appear here.
+I am continuing to migrate and refine material from my prior site; publication and project links are now organized paper-by-paper on the research page.

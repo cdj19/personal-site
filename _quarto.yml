@@ -6,7 +6,9 @@ website:
   title: "Chris Johnston"
   site-url: "https://example.com"
   navbar:
-    right:
+    left:
+      - text: "About"
+        href: index.qmd
       - text: "Research"
         href: research.qmd
       - text: "Teaching"

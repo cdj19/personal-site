@@ -1,5 +1,10 @@
 body {
-  line-height: 1.6;
+  line-height: 1.65;
+  color: #27303a;
+}
+
+.navbar {
+  border-bottom: 1px solid #e9eef3;
 }
 
 .navbar-brand {
@@ -12,11 +17,56 @@ h1, h2, h3 {
 }
 
 main.content {
-  max-width: 900px;
+  max-width: 960px;
   margin: 0 auto;
+}
+
+.hero {
+  background: linear-gradient(145deg, #f8fbff 0%, #eef5fb 100%);
+  border: 1px solid #dfebf7;
+  border-radius: 14px;
+  padding: 2.2rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.hero-name {
+  margin-bottom: 0.5rem;
+}
+
+.hero-buttons {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.content-card {
+  border: 1px solid #e7edf4;
+  border-radius: 12px;
+  background: #fff;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 2px 10px rgba(39, 48, 58, 0.04);
 }
 
 .blockquote,
 blockquote {
   color: #5a5a5a;
+}
+
+.paper-links {
+  margin: 0.4rem 0 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.paper-links .btn {
+  border-radius: 0.4rem;
 }
