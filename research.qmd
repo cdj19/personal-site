@@ -11,19 +11,17 @@ My research examines political psychology and political behavior, with special a
 - Electoral politics in the United States
 - Public opinion and democratic accountability
 
-## Selected publications
+## Published articles
 
-> Add selected publications here (or use `bibliography:` in the YAML and generate this section automatically).
-
-1. Johnston, Christopher D. (Add citation details.)
-2. Johnston, Christopher D. (Add citation details.)
-3. Johnston, Christopher D. (Add citation details.)
+- **Guay, Brian, and Christopher D. Johnston. 2022. "Ideological Asymmetries and the Determinants of Politically Motivated Reasoning." _American Journal of Political Science_ 66 (2): 285-301.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12624" target="_blank" rel="noopener noreferrer">Published Version</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CGHTPZ" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
 
 ## Working papers
 
-- Add working paper title and coauthors.
-- Add working paper title and coauthors.
-
-## Data and replication
-
-If available, include links to replication materials or project repositories.
+- **Add working paper title, coauthors, and year.**
+  <div class="paper-links">
+    <em>Add links for draft, replication materials, and project site as available.</em>
+  </div>
