@@ -35,7 +35,6 @@ Press.**
   <div class="paper-links">
   <a class="btn btn-outline-secondary btn-sm" href="http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199772759.001.0001/acprof-9780199772759" target="_blank" rel="noopener noreferrer">Oxford Site</a>
     <a class="btn btn-outline-secondary btn-sm" href="http://www.amazon.com/The-Ambivalent-Partisan-Democracy-Psychology/dp/0199772754/ref=sr_1_1?ie=UTF8&qid=1346177824&sr=8-1&keywords=the+ambivalent+partisan" target="_blank" rel="noopener noreferrer">Amazon Site</a>
-    <a class="btn btn-outline-secondary btn-sm" href="https://osf.io/x4b2n/overview" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
   </div>
 
 
