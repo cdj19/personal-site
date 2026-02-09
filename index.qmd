@@ -1,0 +1,33 @@
+---
+title: "Home"
+---
+
+::: {.columns}
+::: {.column width="65%"}
+## Christopher Johnston
+
+I am a political scientist at Duke University. My research focuses on public opinion, political behavior, polarization, and electoral politics.
+
+This site provides a central place to find my current CV, research projects, and teaching information.
+
+- [Research overview](research.qmd)
+- [Teaching information](teaching.qmd)
+- [Curriculum vitae](cv.qmd)
+:::
+
+::: {.column width="35%"}
+### Contact
+
+**Department of Political Science**  
+Duke University  
+Durham, NC
+
+📧 `christopher.johnston@duke.edu`
+
+[Google Scholar profile](https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en&oi=ao)
+:::
+:::
+
+## News
+
+I am currently migrating material from my previous site into this Quarto site. Updated publication and course details will continue to appear here.

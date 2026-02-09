@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Chris Johnston"
+  site-url: "https://example.com"
+  navbar:
+    right:
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org)."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true

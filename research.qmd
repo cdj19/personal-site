@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+My research examines political psychology and political behavior, with special attention to identity, ideology, and partisan conflict.
+
+## Current research areas
+
+- Affective polarization and mass attitudes
+- Identity and political behavior
+- Electoral politics in the United States
+- Public opinion and democratic accountability
+
+## Selected publications
+
+> Add selected publications here (or use `bibliography:` in the YAML and generate this section automatically).
+
+1. Johnston, Christopher D. (Add citation details.)
+2. Johnston, Christopher D. (Add citation details.)
+3. Johnston, Christopher D. (Add citation details.)
+
+## Working papers
+
+- Add working paper title and coauthors.
+- Add working paper title and coauthors.
+
+## Data and replication
+
+If available, include links to replication materials or project repositories.

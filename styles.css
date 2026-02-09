@@ -1,0 +1,22 @@
+body {
+  line-height: 1.6;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+h1, h2, h3 {
+  font-weight: 650;
+}
+
+main.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.blockquote,
+blockquote {
+  color: #5a5a5a;
+}
