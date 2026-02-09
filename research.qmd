@@ -11,19 +11,138 @@ My research examines political psychology and political behavior, with special a
 - Electoral politics in the United States
 - Public opinion and democratic accountability
 
-## Selected publications
+## Published articles
 
-> Add selected publications here (or use `bibliography:` in the YAML and generate this section automatically).
+- **Hjermitslev, Ida, and Christopher D. Johnston. 2023. "Mixed Evidence for a Relationship of Cognitive Fatigue to Political Engagement." _Electoral Studies_ 83: 102621.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://doi.org/10.1016/j.electstud.2023.102621" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1ZrsTQroBg0zDaeVdxq5R1YYqqQIRa4TZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
 
-1. Johnston, Christopher D. (Add citation details.)
-2. Johnston, Christopher D. (Add citation details.)
-3. Johnston, Christopher D. (Add citation details.)
+- **Hassell, Hans J.G., Christopher D. Johnston, Jessica Khan, and Edgar Cook. 2022. "The Nature and Impact of Emotional Content in Congressional Candidate Emails to Supporters." _Electoral Studies_ 79: 102501.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://doi.org/10.1016/j.electstud.2022.102501" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1Ia4CSLDDeTEBIMcGegRh9AMhZTvTpidT/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Ollerenshaw, Trent, and Christopher D. Johnston. 2022. "The Conditional Relationship of Psychological Needs to Ideology: A Large-Scale Replication." _Public Opinion Quarterly_ 86 (2): 369-380.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://doi.org/10.1093/poq/nfac004" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://dataverse.harvard.edu/dataverse/ollerenshawjohnstonpoq" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Johnston, Christopher D., and Gabriel J. Madson. 2022. "Negativity Bias, Personality, and Political Ideology." _Nature Human Behavior_ 6 (5): 666-676.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://rdcu.be/cNbFf" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GRXTZY" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Guay, Brian, and Christopher D. Johnston. 2022. "Ideological Asymmetries and the Determinants of Politically Motivated Reasoning." _American Journal of Political Science_ 66 (2): 285-301.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12624" target="_blank" rel="noopener noreferrer">Published Version</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CGHTPZ" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Johnston, Christopher D., and Trent Ollerenshaw. 2020. "How Different Are Cultural and Economic Ideology?" _Current Opinion in Behavioral Sciences_ 34: 94-101.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://www.sciencedirect.com/science/article/pii/S2352154620300085?dgcid=author#bib0005" target="_blank" rel="noopener noreferrer">Article</a>
+  </div>
+
+- **Johnston, Christopher D. 2018. "Authoritarianism, Affective Polarization, and Economic Ideology." _Advances in Political Psychology_ 39 (S1): 219-238.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12483" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/11FLqyFx344UPpXHjpRpRw17a62n7BNDl/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Johnston, Christopher D., Maxwell Mak, and Andrew H. Sidman. 2016. "On the Measurement of Judicial Ideology." _Justice System Journal_ 37 (2): 169-188.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://www.tandfonline.com/doi/full/10.1080/0098261X.2015.1084249" target="_blank" rel="noopener noreferrer">Article</a>
+  </div>
+
+- **Johnston, Christopher D., and Andrew O. Ballard. 2016. "Economists and Public Opinion: Expert Consensus and Economic Policy Judgments." _Journal of Politics_ 78 (2): 443-456.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://www.journals.uchicago.edu/doi/full/10.1086/684629" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ROFNV2" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Johnston, Christopher D., and Benjamin J. Newman. 2016. "Economic Inequality and U.S. Public Policy Mood across Space and Time." _American Politics Research_ 44 (1): 164-191.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://journals.sagepub.com/doi/full/10.1177/1532673X15588361" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1X1z3S9mTFy2lSAfYtjEHBkEHwp1jGbzQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Johnston, Christopher D., Benjamin J. Newman, and Yamil Velez. 2015. "Ethnic Change, Personality, and Polarization over Immigration in the American Public." _Public Opinion Quarterly_ 79 (3): 662-686.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://academic.oup.com/poq/article/79/3/662/1917354" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1cpCbSIqp59XkjeutT8g9sndiexL6_gvL/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://academic.oup.com/poq/article/84/1/182/5857584?guestAccessKey=0109fda6-6c07-4bae-8880-a903daea6468" target="_blank" rel="noopener noreferrer">Corrigendum</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/drive/folders/1ufwZgL58i6lyE4rWlas2y_veVc4fvhFK?usp=sharing" target="_blank" rel="noopener noreferrer">Corrigendum Replication</a>
+  </div>
+
+- **Johnston, Christopher D., Howard Lavine, and Benjamin Woodson. 2015. "Emotion and Political Judgment: Expectancy Violation and Affective Intelligence." _Political Research Quarterly_ 68 (3): 474-492.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://journals.sagepub.com/doi/full/10.1177/1065912915593644" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1xcJO3O4yIjFqCYOb_R6vixuUXJg4gPmT/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Bartels, Brandon L., Christopher D. Johnston, and Alyx Mark. 2015. "Lawyers’ Perceptions of The U.S. Supreme Court: Is the Court a ‘Political’ Institution?" _Law and Society Review_ 49 (3): 761-794.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://onlinelibrary.wiley.com/doi/10.1111/lasr.12154/full" target="_blank" rel="noopener noreferrer">Article</a>
+  </div>
+
+- **Newman, Benjamin J., Christopher D. Johnston, and Patrick Lown. 2015. "False Consciousness or Class Awareness? Local Income Inequality, Personal Economic Position, and Belief in American Meritocracy." _American Journal of Political Science_ 59 (2): 326-340.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://onlinelibrary.wiley.com/doi/10.1111/ajps.12153/full" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="http://onlinelibrary.wiley.com/doi/10.1111/ajps.12254/full" target="_blank" rel="noopener noreferrer">Erratum</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26584" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Johnston, Christopher D., and Julie Wronski. 2015. "Personality Dispositions and Political Preferences across Hard and Easy Issues." _Political Psychology_ 36 (1): 35-53.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://onlinelibrary.wiley.com/doi/10.1111/pops.12068/full" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/18VV3YJIM0KQ4vae8EXj3AS2JCGvHrzDO/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Johnston, Christopher D., D. Sunshine Hillygus, and Brandon L. Bartels. 2014. "Ideology, the Affordable Care Act Ruling, and Supreme Court Legitimacy." _Public Opinion Quarterly_ 78 (4): 963-973.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://academic.oup.com/poq/article/78/4/963/2330014" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/18m2JWjMYoXdG4ZZIs_3ziq1ipk8foCnL/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Feldman, Stanley, and Christopher D. Johnston. 2014. "Understanding the Determinants of Political Ideology: Implications of Structural Complexity." _Political Psychology_ 35 (3): 337-358.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://onlinelibrary.wiley.com/doi/10.1111/pops.12055/full" target="_blank" rel="noopener noreferrer">Article</a>
+  </div>
+
+- **Johnston, Christopher D. 2013. "Dispositional Sources of Economic Protectionism." _Public Opinion Quarterly_ 77 (2): 574-585.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://academic.oup.com/poq/article/77/2/574/1871004" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1uI__RT6cFktnkLjgpg7CKLZWqgYb91Hu/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Bartels, Brandon L., and Christopher D. Johnston. 2013. "On the Ideological Foundations of Supreme Court Legitimacy in the Mass Public." _American Journal of Political Science_ 57 (1): 184-199.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00616.x/full" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/18358" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Newman, Benjamin J., Christopher D. Johnston, April Strickland, and Jack Citrin. 2012. "Immigration Crackdown in the American Workplace: Explaining Variation in E-Verify Policy Adoption across the U.S. States." _State Politics and Policy Quarterly_ 12 (2): 160-182.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="http://journals.sagepub.com/doi/full/10.1177/1532440012442910" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1QjIZ_TFyzZR93TDBZqbA_GJ4bq5HfZrj/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
+
+- **Bartels, Brandon L., and Christopher D. Johnston. 2012. "Political Justice? Perceptions of Politicization and Public Preferences toward the Supreme Court Appointment Process." _Public Opinion Quarterly_ 76 (1): 105-116.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://academic.oup.com/poq/article/76/1/105/1892469" target="_blank" rel="noopener noreferrer">Article</a>
+  </div>
+
+- **Johnston, Christopher D., and Brandon L. Bartels. 2010. "Sensationalism and Sobriety: Differential Media Exposure and Attitudes Toward American Courts." _Public Opinion Quarterly_ 74: 260-285.**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://academic.oup.com/poq/article/74/2/260/1935613" target="_blank" rel="noopener noreferrer">Article</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://drive.google.com/file/d/1ohQ-JVFVNUkbCgf5SOuC2dHzq73WZxNY/view?usp=sharing" target="_blank" rel="noopener noreferrer">Data &amp; Replication</a>
+  </div>
 
 ## Working papers
 
-- Add working paper title and coauthors.
-- Add working paper title and coauthors.
-
-## Data and replication
-
-If available, include links to replication materials or project repositories.
+- See the working papers page and add links (drafts, data, and project repositories) for each manuscript.
