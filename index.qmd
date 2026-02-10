@@ -62,8 +62,7 @@ I am currently associate editor at the journal [*Political Psychology*](https://
 :::
 
 ::: {.column width="35%"}
-![](images/headshot.jpg){width=220px style="border-radius:50%; display:block; margin-left:auto; margin-right:auto;"}
+![](images/headshot.jpg){.hero-headshot width=220px style="border-radius:50%; display:block; margin-left:auto; margin-right:auto;"}
 :::
 :::
 :::
-
