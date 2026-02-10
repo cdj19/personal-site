@@ -1,22 +1,16 @@
 ---
-title: "Teaching"
+title: ""
+toc: false
 ---
 
-I teach courses in political behavior, public opinion, and political psychology.
+## Undergraduate Courses at Duke
 
-## Courses
+- [POLSCI 240 / PSY 225: Political Psychology](https://polsci240-site-7ef0ae.pages.oit.duke.edu/)
+- [POLSCI 431S / PSY 326S: Reason and Passion in Politics](docs/Reason&Passion_Syllabus.pdf)
 
-### Duke University
+## Graduate Courses at Duke
 
-- POLSCI XXX: Political Behavior
-- POLSCI XXX: Public Opinion and Democracy
-- POLSCI XXX: Polarization in American Politics
+- [POLSCI 630: Basic Regression](https://polsci630-site-f61095.pages.oit.duke.edu/)
+- [POLSCI 701: Core in Political Behavior & Identity](docs/Core_Syllabus.pdf)
 
-## Advising
 
-I welcome graduate and undergraduate students interested in political psychology, partisanship, and quantitative methods.
-
-## Teaching materials
-
-- Syllabi and reading lists can be posted here.
-- Assignment prompts and resources can be posted here.

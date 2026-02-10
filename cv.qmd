@@ -1,61 +1,205 @@
 ---
-title: "Curriculum Vitae"
+title: ""
+toc: false
+page-layout: full
+format:
+  html:
+    css: cv.css
+    anchor-sections: false
+format-links: false
+execute:
+  echo: false
 ---
 
-> This markdown CV is a starter template based on information that is publicly known. Replace placeholder fields with current details from your Word CV.
+  <!-- pdf: -->
+  <!--   pdf-engine: lualatex -->
+  <!--   documentclass: article -->
+  <!--   fontsize: 11pt -->
+  <!--   geometry: margin=1in -->
+  <!--   toc: false -->
+  <!--   colorlinks: true -->
+  <!--   urlcolor: "blue" -->
+  <!--   linkcolor: "blue" -->
 
-## Contact
+::: {.content-visible when-format="html"}
+[Download PDF](docs/cv.pdf){.btn .btn-primary .cv-download target="_blank" rel="noopener"}
+:::
 
-**Christopher Johnston**  
-Department of Political Science, Duke University  
-Durham, NC  
-Email: christopher.johnston@duke.edu
+::: {.cv-contact}
+**Christopher D. Johnston**  
+Professor, Department of Political Science and Sociology, Duke University  
+294J Gross Hall · Durham, NC 27708-0204  
+(919) 660-4345 · [cdj19@duke.edu](mailto:cdj19@duke.edu)  
+Website: <http://sites.duke.edu/chrisjohnston/>
+:::
 
-## Academic appointment
+## Academic Appointments
 
-- Duke University, Department of Political Science, Faculty (details to update)
-
-## Research interests
-
-- Public opinion
-- Political behavior
-- Partisanship and polarization
-- Political psychology
+- Professor of Political Science and Sociology, Duke University, 2025-present
+- Director of Graduate Studies for Political Science, Duke University, 2020-2024
+- Associate Professor of Political Science, Duke University, 2018-2024
+- Assistant Professor of Political Science, Duke University, 2011-2018
 
 ## Education
 
-- PhD, (institution), (year)
-- MA, (institution), (year)
-- BA, (institution), (year)
+- Ph.D., Political Science, Stony Brook University, 2011
+- B.A., Psychology, Wake Forest University, 2005
 
-## Publications
+## Books
 
-### Peer-reviewed articles
+::: {.cv-hanging}
+- Bartels, Brandon L., and Christopher D. Johnston. 2020. Curbing the Court: Why the Public Constrains Judicial Independence. New York: Cambridge University Press.
+- Johnston, Christopher D., Howard G. Lavine, and Christopher M. Federico. 2017. Open versus Closed: Personality, Identity, and the Politics of Redistribution. New York: Cambridge University Press.
+- Lavine, Howard G., Christopher D. Johnston, and Marco R. Steenbergen. 2012. The Ambivalent Partisan: How Critical Loyalty Promotes Democracy. New York: Oxford University Press.
+:::
 
-1. Add publication details from your current CV.
-2. Add publication details from your current CV.
-3. Add publication details from your current CV.
+## Articles
 
-### Books and chapters
+::: {.cv-hanging}
+- Johnston, Christopher D., David J. Ciuk, and Jesse Lopez. 2025. “Competing Moral Minds? Estimating Moral Disagreement in American Politics.” Political Psychology. <http://doi.org/10.1111/pops.70078>.
+- Opertti, Martín, and Christopher D. Johnston. 2025. “Linking Personality and Policy: The Moderating Roles of Cues and Frames.” Political Psychology. <http://doi.org/10.1111/pops.70055>
+- Trexler, Andrew, and Christopher D. Johnston. 2025. "An Ideology by Any Other Name." Political Behavior 47: 385-409.
+- Jenke, Libby, Christopher D. Johnston, and Gabriel Madson. 2025. "An Assessment of Citizens' Capacity for Prospective Issue Voting using Incentivized Forecasting." Quarterly Journal of Political Science 20 (1): 1-31.
+- Hjermitslev, Ida, and Christopher D. Johnston. 2023. "Mixed Evidence for a Relationship of Cognitive Fatigue to Political Engagement." Electoral Studies 83: 102621.
+- Hassell, Hans J.G., Christopher D. Johnston, Jessica Khan, and Edgar Cook. 2022. “The Nature and Impact of Emotional Content in Congressional Candidate Emails to Supporters.” Electoral Studies 79: 102501.
+- Ollerenshaw, Trent, and Christopher D. Johnston. 2022. “The Conditional Relationship of Psychological Needs to Ideology: A Large-Scale Replication.” Public Opinion Quarterly 86 (2): 369-380.
+- Johnston, Christopher D., and Gabriel J. Madson. 2022. “Negativity Bias, Personality, and Political Ideology.” Nature Human Behavior 6(5): 666-676.
+- Guay, Brian, and Christopher D. Johnston. 2022. “Ideological Asymmetries and the Determinants of Politically Motivated Reasoning.” American Journal of Political Science 66 (2): 285-301.
+- Johnston, Christopher D., and Trent Ollerenshaw. 2020. “How Different Are Cultural and Economic Ideology?” Current Opinion in Behavioral Sciences 34: 94-101.
+- Johnston, Christopher D. 2018. “Authoritarianism, Affective Polarization, and Economic Ideology.” Advances in Political Psychology 39 (S1): 219-238.
+- Johnston, Christopher D., Maxwell Mak, and Andrew H. Sidman. 2016. “On the Measurement of Judicial Ideology.” Justice System Journal 37 (2): 169-188.
+- Johnston, Christopher D., and Andrew O. Ballard. 2016. “Economists and Public Opinion: Expert Consensus and Economic Policy Judgments.” Journal of Politics 78 (2): 443-456.
+- Johnston, Christopher D., and Benjamin J. Newman. 2016. “Economic Inequality and U.S. Public Policy Mood across Space and Time.” American Politics Research 44 (1): 164-191.
+- Johnston, Christopher D., Benjamin J. Newman, and Yamil Velez. 2015. “Ethnic Change, Personality, and Polarization over Immigration in the American Public.” Public Opinion Quarterly 79 (3): 662-686.
+- Johnston, Christopher D., Howard Lavine, and Benjamin Woodson. 2015. “Emotion and Political Judgment: Expectancy Violation and Affective Intelligence.” Political Research Quarterly 68 (3): 474-492.
+- Bartels, Brandon L., Christopher D. Johnston, and Alyx Mark. 2015. “Lawyers’ Perceptions of The U.S. Supreme Court: Is the Court a ‘Political’ Institution?” Law and Society Review 49 (3): 761-794.
+- Newman, Benjamin J., and Christopher D. Johnston, and Patrick Lown. 2015. "False Consciousness or Class Awareness? Local Income Inequality, Personal Economic Position, and Belief in American Meritocracy.” American Journal of Political Science 59 (2): 326-340.
+- Johnston, Christopher D., and Julie Wronski. 2015. “Personality Dispositions and Political Preferences across Hard and Easy Issues.” Political Psychology 36 (1): 35-53.
+- Johnston, Christopher D., D. Sunshine Hillygus, and Brandon L. Bartels. 2014 “Ideology, the Affordable Care Act Ruling, and Supreme Court Legitimacy.” Public Opinion Quarterly 78 (4): 963-973.
+- Feldman, Stanley, and Christopher D. Johnston. 2014. “Understanding the Determinants of Political Ideology: Implications of Structural Complexity.” Political Psychology 35 (3): 337-358.
+- Federico, Christopher M., Christopher D. Johnston, and Howard Lavine. 2013. “Context, Engagement, and the (Multiple) Functions of Negativity Bias.” Behavioral and Brain Sciences 37: 311-312.
+- Johnston, Christopher D. 2013. “Dispositional Sources of Economic Protectionism.” Public Opinion Quarterly, 77 (2): 574-585.
+- Bartels, Brandon L., and Christopher D. Johnston. 2013. “On the Ideological Foundations of Supreme Court Legitimacy in the Mass Public." American Journal of Political Science 57 (1): 184-199.
+- Newman, Benjamin J., Christopher D. Johnston, April Strickland, and Jack Citrin. 2012. "Immigration Crackdown in the American Workplace: Explaining Variation in E-Verify Policy Adoption across the U.S. States." State Politics and Policy Quarterly 12 (2): 160-182.
+- Bartels, Brandon L., and Christopher D. Johnston. 2012. “Political Justice? Perceptions of Politicization and Public Preferences toward the Supreme Court Appointment Process.” Public Opinion Quarterly 76 (1): 105-116.
+- Johnston, Christopher D., and Brandon L. Bartels. 2010. "Sensationalism and Sobriety: Differential Media Exposure and Attitudes Toward American Courts." Public Opinion Quarterly 74: 260-285.
+:::
 
-1. Add book/chapter details from your current CV.
+## Other Publications
 
-## Awards and honors
+::: {.cv-hanging}
+- Johnston, Christopher D. 2018. “Ideology.” The SAGE Encyclopedia of Lifespan Human Development.
+- Federico, Christopher, Christopher Johnston, and Howard Lavine. “Here’s Why Trump’s Supporters Tolerate His ‘Liberal’ Economic Positions.” Washington Post, 8 March, 2016. <https://www.washingtonpost.com/news/monkey-cage/wp/2016/03/08/heres-why-trumps-supporters-tolerate-his-liberal-economic-positions/>
+- Johnston, Christopher D. 2014. Review of Competing Motives in the Partisan Mind: How Loyalty and Responsiveness Shape Party Identification and Democracy. Political Science Quarterly 129 (3): 547-548.
+- Johnston, Christopher D., and D. Sunshine Hillygus. “Perceptions of Supreme Court Legitimacy.” YouGov Model Politics, 15 July, 2012. <http://today.yougov.com/news/2012/07/15/perceptions-supreme-court-legitimacy/>
+- Federico, Christopher, Howard Lavine, and Christopher Johnston. “The Unexpected Impact of Coded Appeals.” New York Times Campaign Stops, 10 September, 2012. <http://campaignstops.blogs.nytimes.com/2012/09/10/the-unexpected-impact-of-coded-appeals/>.
+:::
 
-- Add awards and fellowships.
+## Awards
 
-## Grants
+- 2018 David O. Sears Best Book on Mass Politics Award from the International Society of Political Psychology (for Open versus Closed)
+- 2013 Robert E. Lane Best Book Award from the Political Psychology section of the American Political Science Association (for The Ambivalent Partisan)
+- 2013 David O. Sears Best Book on Mass Politics Award from the International Society of Political Psychology (for The Ambivalent Partisan)
+- 2012 Honorable Mention for Best Dissertation Award from the International Society of Political Psychology.
+- 2010 Milton Lodge Award for Graduate Student with Outstanding Potential from the Department of Political Science at Stony Brook University
 
-- Add grant title, role, amount, and year.
+## Grants and Fellowships
 
-## Teaching
+- “Young Voices: How Kids Develop Political Identities,” Institute for Humane Studies Course Support Grant (IHS019321), 2025-26 ($20,000)
+- “Young Voices: How Kids Develop Political Identities,” Duke Bass Connections, 2024-25 ($24,596) (with Jessi Streib and Steve Vaisey).
+- “A Panel Study of Youth Political Socialization,” Social Science Research Institute. Funding ($14,336) approved for 2023-24 (with Jessi Streib and Steve Vaisey).
+- “Politics and Polarization in the United Methodist Church: A Text Analysis of Sermons,” Institute for Humane Studies (Award #: IHS017323). Funding ($4,846.50) approved for 5/29/2023 – 8/4/2023 (with Trent Ollerenshaw, Erin Johnston, and David Eagle).
+- "Politics and Polarization in Mainline Protestant Denominations," Duke Bass Connections, 2022-23 ($24,875) (with Erin Johnston and David Eagle).
+- Duke University David L. Paletz Innovative Teaching Fund grant, Fall 2020 ($800)
+- Duke University Arts and Sciences Council Committee on Faculty Research grant, “Learning in Campaigns.” Funding ($4,500) approved for July 2018 to June 2019
+- Duke University Arts and Sciences Council Committee on Faculty Research grant, “Emotional Influences on Political Persuasion.” Funding ($5,000) approved for July 2017 to June 2018
+- National Science Foundation: Time-Sharing Experiments for the Social Sciences grant, “On the Appeal of Libertarianism in the U.S. Public,” 2015 (with Jonathan Anomaly).
+- Duke University Arts and Sciences Council Committee on Faculty Research grant, “Loss, Uncertainty, and Political Preferences.” Funding ($5,000) approved for July 2014 to June 2015
+- National Science Foundation: Time-Sharing Experiments for the Social Sciences, grant recipient in the Special Competition for Young Investigators, “Work and Democratic Citizenship: A Theory of Ego-Depletion and Political Participation,” 2013 (with Benjamin J. Newman).
+- National Science Foundation: Time-Sharing Experiments for the Social Sciences grant, “Economists and Public Opinion: Expert Consensus and Economic Policy Judgments,” 2013.
+- National Science Foundation Dissertation Improvement Grant, Division of Social and Economic Sciences, Political Science Program (Award #1023255). Funding ($12,000) approved for September 2010 to August 2011
+- National Science Foundation: Time-Sharing Experiments for the Social Sciences grant, “Party Over Policy, or Policy Over Party? The Moderating Role of Partisan Ambivalence,” 2009 (with Howard Lavine).
+- Departmental Fellowship, 2006-2010, Stony Brook University, Political Science Department.
 
-- List courses taught and years.
+## Invited Talks
 
-## Professional service
+- Rooney Center for the Study of American Democracy, Notre Dame, January 17th, 2025.
+- Political Psychology Research Group. Stanford University. May 9, 2022.
+- “Polarization in America” forum. Colgate University. October 25, 2019.
+- Center for American Politics. Indiana University – Bloomington. March 2, 2018.
+- American Politics Research Group. UNC – Chapel Hill. November 10, 2017.
+- G.E. Hendricks Symposium: “Psychology, Biology, and Political Attitudes.” Department of Political Science, University of Nebraska-Lincoln. April 3-4, 2015.
+- Department of Political Science, University of Virginia, February 20th, 2015.
+- Department of Political Science, Syracuse University. September 25th, 2013.
+- D-CIDES: Decision Making across the Disciplines. April 25th-26th, 2013.
+- American Politics Research Group. UNC – Chapel Hill. November 16, 2012.
+- Duke Political Science Department's Preferences Symposium. Duke University. April 22, 2011.
 
-- Journal reviewing, editorial boards, professional associations.
+## Service to the Field
 
-## References
+### Editorial roles
 
-Available upon request.
+- Associate Editor, Political Psychology (2025-)
+- Editorial Board for Advances in Political Psychology (2014-2016)
+
+### Award committees
+
+- 2022 Best Paper by a Graduate Student Award Committee for the Midwest Political Science Association
+- 2020 Robert E. Lane and David O. Sears Book Award Committee for the International Society of Political Psychology
+- Committee for 2019 Junior Scholar Award for the Political Psychology section of the American Political Science Association.
+- Committee for 2018 Best Paper Award for the Elections, Public Opinion, and Voting section of the American Political Science Association.
+- Committee for 2014 Best Paper Award for the Political Psychology section of the American Political Science Association.
+
+### Ad hoc reviews
+
+Science, PNAS, American Political Science Review, American Journal of Political Science, Journal of Politics, British Journal of Political Science, Political Psychology, Political Behavior, Public Opinion Quarterly, Political Research Quarterly, Political Science Research and Methods, Journal of Personality, Journal of Empirical Legal Studies, Law and Society Review, PLOS ONE, Journal of Law and Courts, Journal of Elections Public Opinion and Parties, Time-Sharing Experiments for the Social Sciences, Nations and Nationalism, Journal of Social and Political Psychology
+
+## Teaching and Advising
+
+### Duke University, 2011-present
+
+- Bass Connections (2022-23, 2024-25)
+- POLSCI 130: Introduction to Political Inquiry (Fall 2011, 2012)
+- POLSCI 240/PSY 225: Political Psychology (Spring 2012, 2018; Fall 2013, 2016, 2018, 2020)
+- POLSCI 431S: Reason and Passion in Politics (Spring 2013, 2018, 2022, 2024)
+- POLSCI 630: Linear Regression (Spring 2023, 2024)
+- POLSCI 712S: Values and Ideology (Fall 2013, 2016, 2018, 2021)
+- POLSCI 701: Core in Behavior and Identities (Fall 2022, 2024)
+- POLSCI 702: Political Psychology (Fall 2012, 2015, 2023)
+- POLSCI 706: Political Judgment and Decision Making (Fall 2017; Spring 2021)
+- POLSCI 733: Maximum Likelihood Methods/Advanced Regression (Spring 2014, 2016, 2019)
+
+### Stony Brook University, Department of Political Science, 2009-2011
+
+- POL 201: Introduction to Statistical Methods in Political Science (Spring 2011, Fall 2009, 2010)
+- POL 344: American Ideology and Public Opinion (Spring 2010)
+
+## Dissertation Committees
+
+- Martín Opertti (Political Science)
+- Andrew Trexler (Public Policy & Political Science)
+- Trent Ollerenshaw (Chair, Political Science)
+- Suhyen Bae (Political Science)
+- Eddy Cook (co-Chair, Political Science)
+- Curtis Bram (Chair, Political Science)
+- Tina Tucker (Political Science)
+- Jesse Lopez (Political Science)
+- Kevin Kiley (Sociology)
+- So Jin Lee (Political Science)
+- Brett Gall (co-Chair, Political Science)
+- Gabriel Madson (co-Chair, Political Science)
+- Brian Guay (co-Chair, Political Science)
+- Emily Pechar (Nicholas School of the Environment)
+- Devin McCarthy (Chair, Political Science)
+- Emily Rains (Public Policy)
+- Ida Hjermistslev (Political Science)
+- Juan Tellez (Political Science)
+- Victoria Donoucos (Political Science)
+- Libby Jenke (Political Science)
+- Austin Wang (Political Science)
+- Laura Frankel (Political Science)
+- Lorena Mizuno (Political Science)
+- Alicia Reyes-Barrientez (Political Science)
+- Taneisha Means (Political Science)
+- Melanie Freeze (Political Science)
+- Christopher DeSante (Political Science)
