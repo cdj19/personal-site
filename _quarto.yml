@@ -7,7 +7,6 @@ project:
 website:
   title: "Chris Johnston"
   site-url: "https://cdjohnston.com"
-  sitemap: true
   navbar:
     left:
       - text: "About"
