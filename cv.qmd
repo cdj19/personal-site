@@ -6,21 +6,20 @@ format:
   html:
     css: cv.css
     anchor-sections: false
-  pdf:
-    pdf-engine: lualatex
-    documentclass: article
-    fontsize: 11pt
-    geometry: margin=1in
-    toc: false
-    colorlinks: true
-    urlcolor: "blue"
-    linkcolor: "blue"
 format-links: false
 execute:
   echo: false
 ---
 
-
+  <!-- pdf: -->
+  <!--   pdf-engine: lualatex -->
+  <!--   documentclass: article -->
+  <!--   fontsize: 11pt -->
+  <!--   geometry: margin=1in -->
+  <!--   toc: false -->
+  <!--   colorlinks: true -->
+  <!--   urlcolor: "blue" -->
+  <!--   linkcolor: "blue" -->
 
 ::: {.content-visible when-format="html"}
 [Download PDF](docs/cv.pdf){.btn .btn-primary .cv-download target="_blank" rel="noopener"}
