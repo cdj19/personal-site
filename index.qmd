@@ -1,50 +1,68 @@
 ---
-title: "About"
+title: ""
 page-layout: full
+toc: false
 ---
 
 ::: {.hero}
 ## Christopher D. Johnston {.hero-name}
 
-Professor of Political Science and Sociology at Duke University.
+**Professor of Political Science and Sociology at Duke University.**
 
-My research focuses on political psychology, public opinion, polarization, and electoral behavior.
+::: {.columns}
+::: {.column width="65%"}
+My research and teaching explores the origins and structure of mass belief systems, how identities shape behavior, and models of judgment and decision making.
+
+I co-direct [Worldview Lab](https://kenan.ethics.duke.edu/worldview-lab/) at Duke's Kenan Institute for Ethics.
+
+I am currently associate editor at the journal [*Political Psychology*](https://onlinelibrary.wiley.com/journal/14679221).
 
 <div class="hero-buttons">
-  <a class="btn btn-primary" href="research.qmd">Research</a>
-  <a class="btn btn-outline-primary" href="cv.qmd">CV</a>
-  <a class="btn btn-outline-primary" href="teaching.qmd">Teaching</a>
-  <a class="btn btn-outline-primary" href="https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  <a class="btn btn-icon-outline"
+     href="mailto:christopher.johnston@duke.edu"
+     aria-label="Email">
+    <i class="bi bi-envelope"></i>
+  </a>
+
+  <!-- <a class="btn btn-icon-outline" -->
+  <!--    href="https://github.com/cdj19" -->
+  <!--    target="_blank" -->
+  <!--    rel="noopener noreferrer" -->
+  <!--    aria-label="GitHub"> -->
+  <!--   <i class="bi bi-github"></i> -->
+  <!-- </a> -->
+  <a class="btn btn-icon-outline"
+     href="https://gitlab.com/cdj19"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="GitLab">
+    <i class="bi bi-gitlab"></i>
+  </a>
+
+<a class="btn btn-icon-outline"
+   href="https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Google Scholar"
+   title="Google Scholar">
+  <i class="bi bi-mortarboard"></i>
+</a>
+
+<a class="btn btn-icon-outline osf"
+   href="https://osf.io/fruc2/"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Open Science Framework"
+   title="Open Science Framework">
+  OSF
+</a>
+
 </div>
 :::
 
-::: {.content-grid}
-::: {.content-card}
-### About
-
-I study the psychological foundations of ideology, identity, and partisan conflict in American politics. My work appears in journals including *American Journal of Political Science*, *Public Opinion Quarterly*, *Political Psychology*, and *Nature Human Behaviour*.
+::: {.column width="35%"}
+![](images/headshot.jpg){width=220px style="border-radius:50%; display:block; margin-left:auto; margin-right:auto;"}
 :::
-
-::: {.content-card}
-### Contact
-
-**Department of Political Science**  
-Duke University  
-Durham, NC
-
-📧 [christopher.johnston@duke.edu](mailto:christopher.johnston@duke.edu)
-:::
-
-::: {.content-card}
-### Quick links
-
-- [Research page](research.qmd)
-- [Working papers](research.qmd#working-papers)
-- [Teaching](teaching.qmd)
-- [Curriculum vitae](cv.qmd)
 :::
 :::
 
-## Recent update
-
-I am continuing to migrate and refine material from my prior site; publication and project links are now organized paper-by-paper on the research page.
