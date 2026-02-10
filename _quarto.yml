@@ -1,10 +1,12 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
 
 website:
   title: "Chris Johnston"
-  site-url: "https://example.com"
+  site-url: "https://cdjohnston.com"
   navbar:
     left:
       - text: "About"
