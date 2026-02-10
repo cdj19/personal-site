@@ -1,0 +1,40 @@
+:root{
+  --duke-blue: #012169;
+  --duke-blue-hover: #00539b;
+}
+
+/* Download button */
+a.cv-download{
+  background-color: var(--duke-blue) !important;
+  border-color: var(--duke-blue) !important;
+  color: #fff !important;
+}
+a.cv-download:hover{
+  background-color: var(--duke-blue-hover) !important;
+  border-color: var(--duke-blue-hover) !important;
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* Contact block */
+.cv-contact{
+  margin: 1rem 0 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+/* Section headers */
+h2{
+  margin-top: 1.6rem;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+}
+h3{
+  margin-top: 1.1rem;
+}
+
+/* Publication-style lists */
+.cv-hanging li{
+  margin-bottom: 0.45rem;
+  text-indent: -1.4rem;
+  padding-left: 1.4rem;
+}
