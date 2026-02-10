@@ -7,7 +7,7 @@ toc: false
 ::: {.hero}
 ## Christopher D. Johnston {.hero-name}
 
-**Professor of Political Science and Sociology at Duke University.**
+**Professor of Political Science and Sociology at Duke University**
 
 ::: {.columns}
 ::: {.column width="65%"}
@@ -24,13 +24,14 @@ I am currently associate editor at the journal [*Political Psychology*](https://
     <i class="bi bi-envelope"></i>
   </a>
 
-  <!-- <a class="btn btn-icon-outline" -->
-  <!--    href="https://github.com/cdj19" -->
-  <!--    target="_blank" -->
-  <!--    rel="noopener noreferrer" -->
-  <!--    aria-label="GitHub"> -->
-  <!--   <i class="bi bi-github"></i> -->
-  <!-- </a> -->
+  <a class="btn btn-icon-outline"
+     href="https://github.com/cdj19"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="GitHub">
+    <i class="bi bi-github"></i>
+  </a>
+  
   <a class="btn btn-icon-outline"
      href="https://gitlab.oit.duke.edu/cdj19"
      target="_blank"
