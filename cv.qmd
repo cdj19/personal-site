@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "CV"
 toc: false
 page-layout: full
 description: "Curriculum vitae of Christopher D. Johnston, Professor of Political Science and Sociology at Duke University."

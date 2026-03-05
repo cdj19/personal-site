@@ -6,8 +6,10 @@ project:
     - robots.txt
 
 website:
-  title: "Chris Johnston"
+  title: "Christopher D. Johnston"
   site-url: "https://cdjohnston.com"
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - text: "About"
