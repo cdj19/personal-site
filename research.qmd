@@ -1,5 +1,10 @@
 ---
 title: ""
+description: "Research by Christopher D. Johnston — books, working papers, and published articles on political psychology, ideology, and public opinion."
+format:
+  html:
+    include-in-header:
+      - text: '<link rel="canonical" href="https://cdjohnston.com/research.html" />'
 ---
 
 ## Working papers

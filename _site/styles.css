@@ -33,6 +33,19 @@ main.content {
   margin-bottom: 0.5rem;
 }
 
+
+.hero .columns {
+  align-items: center;
+}
+
+.hero .column {
+  min-width: 0;
+}
+
+.hero-headshot {
+  max-width: 100%;
+  height: auto;
+}
 .hero-buttons {
   margin-top: 1rem;
   display: flex;
@@ -117,9 +130,28 @@ main.content {
   letter-spacing: 0.05em;
 }
 
+@media (max-width: 800px) {
+  .hero {
+    padding: 1.5rem;
+  }
+
+  .hero .columns {
+    flex-direction: column-reverse;
+    gap: 1.2rem;
+  }
+
+  .hero .column {
+    width: 100% !important;
+  }
+
+  .hero-headshot {
+    width: min(220px, 55vw) !important;
+  }
+}
+
 @media (max-width: 600px) {
-  .hero-buttons a {
-    width: 100%;
+  .hero-buttons {
+    justify-content: center;
   }
 }
 

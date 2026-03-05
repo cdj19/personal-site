@@ -2,6 +2,31 @@
 title: ""
 page-layout: full
 toc: false
+description: "Christopher D. Johnston — Professor of Political Science and Sociology at Duke University. Research on mass belief systems, political identity, and decision-making."
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="canonical" href="https://cdjohnston.com/" />
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Christopher D. Johnston",
+            "url": "https://cdjohnston.com",
+            "jobTitle": "Professor of Political Science and Sociology",
+            "worksFor": {
+              "@type": "Organization",
+              "name": "Duke University"
+            },
+            "sameAs": [
+              "https://github.com/cdj19",
+              "https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en",
+              "https://osf.io/fruc2/"
+            ],
+            "email": "christopher.johnston@duke.edu"
+          }
+          </script>
 ---
 
 ::: {.hero}

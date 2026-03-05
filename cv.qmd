@@ -2,10 +2,13 @@
 title: ""
 toc: false
 page-layout: full
+description: "Curriculum vitae of Christopher D. Johnston, Professor of Political Science and Sociology at Duke University."
 format:
   html:
     css: cv.css
     anchor-sections: false
+    include-in-header:
+      - text: '<link rel="canonical" href="https://cdjohnston.com/cv.html" />'
 format-links: false
 execute:
   echo: false
