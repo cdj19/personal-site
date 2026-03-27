@@ -51,7 +51,7 @@ Press.**
     <a class="btn btn-outline-secondary btn-sm" href="https://gitlab.oit.duke.edu/cdj19/competing-moral-minds" target="_blank" rel="noopener noreferrer">Data &amp; Reproduction</a>
   </div>
   
-- **Opertti, Martín, and Christopher D. Johnston. 2025. "Linking personality and policy: The moderating roles of cues and frames." _Political Psychology_.**
+- **Opertti, Martín, and Christopher D. Johnston. 2025. "Linking personality and policy: The moderating roles of cues and frames." _Political Psychology_ 47(2): e70055.**
   <div class="paper-links">
     <a class="btn btn-outline-secondary btn-sm" href="https://doi.org/10.1111/pops.70055" target="_blank" rel="noopener noreferrer">Published Version</a>
     <a class="btn btn-outline-secondary btn-sm" href="https://osf.io/bzc43/overview" target="_blank" rel="noopener noreferrer">Data &amp; Reproduction</a>

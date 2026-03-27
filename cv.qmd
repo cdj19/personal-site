@@ -60,7 +60,7 @@ Website: [cdjohnston.com](https://cdjohnston.com)
 
 ::: {.cv-hanging}
 - Johnston, Christopher D., David J. Ciuk, and Jesse Lopez. 2025. “Competing Moral Minds? Estimating Moral Disagreement in American Politics.” Political Psychology. <http://doi.org/10.1111/pops.70078>.
-- Opertti, Martín, and Christopher D. Johnston. 2025. “Linking Personality and Policy: The Moderating Roles of Cues and Frames.” Political Psychology. <http://doi.org/10.1111/pops.70055>
+- Opertti, Martín, and Christopher D. Johnston. 2025. “Linking Personality and Policy: The Moderating Roles of Cues and Frames.” Political Psychology 47(2): e70055.
 - Trexler, Andrew, and Christopher D. Johnston. 2025. "An Ideology by Any Other Name." Political Behavior 47: 385-409.
 - Jenke, Libby, Christopher D. Johnston, and Gabriel Madson. 2025. "An Assessment of Citizens' Capacity for Prospective Issue Voting using Incentivized Forecasting." Quarterly Journal of Political Science 20 (1): 1-31.
 - Hjermitslev, Ida, and Christopher D. Johnston. 2023. "Mixed Evidence for a Relationship of Cognitive Fatigue to Political Engagement." Electoral Studies 83: 102621.
