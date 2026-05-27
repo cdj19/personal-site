@@ -45,7 +45,7 @@ Press.**
 
 ## Published articles
 
-- **Ciuk, David, Christopher D. Johnston, and Jesse Lopez. 2025. "Competing Moral Minds? Estimating Moral Disagreement in American Politics." _Political Psychology_.**
+- **Ciuk, David, Christopher D. Johnston, and Jesse Lopez. 2025. "Competing Moral Minds? Estimating Moral Disagreement in American Politics." _Political Psychology_ 47(3): e70078.**
   <div class="paper-links">
     <a class="btn btn-outline-secondary btn-sm" href="https://doi.org/10.1111/pops.70078" target="_blank" rel="noopener noreferrer">Published Version</a>
     <a class="btn btn-outline-secondary btn-sm" href="https://gitlab.oit.duke.edu/cdj19/competing-moral-minds" target="_blank" rel="noopener noreferrer">Data &amp; Reproduction</a>
