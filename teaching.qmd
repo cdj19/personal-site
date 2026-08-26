@@ -8,6 +8,8 @@ format:
       - text: '<link rel="canonical" href="https://cdjohnston.com/teaching.html" />'
 ---
 
+I teach undergraduate and graduate courses at Duke on political psychology, ideology and public opinion, and quantitative methods, including linear regression. Syllabi and course sites are linked below.
+
 ## Undergraduate Courses at Duke
 
 - [POLSCI 240 / PSY 225: Political Psychology](https://polsci240-site-7ef0ae.pages.oit.duke.edu/)

@@ -7,7 +7,14 @@ format:
       - text: '<link rel="canonical" href="https://cdjohnston.com/research.html" />'
 ---
 
+My research examines political psychology and public opinion in the American mass public: how political ideology is structured and measured, how personality and basic psychological needs shape economic and cultural policy preferences, how citizens evaluate the U.S. Supreme Court and other political institutions, and how political values and identities form in childhood. Below are my working papers, books, and published articles, most with links to preprints and to data and code for reproduction.
+
 ## Working papers
+
+- **Turgut Keskintürk, Christopher D. Johnston, and Stephen Vaisey. "The Emerging Structure of Political Preferences in Childhood."**
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://tkeskinturk.github.io/poldevelopment.pdf" target="_blank" rel="noopener noreferrer">Working Draft</a>
+  </div>
 
 - **Christopher D. Johnston, Martín Opertti, and Turgut Keskintürk. "Values and Political Preferences in Childhood."**
   <div class="paper-links">

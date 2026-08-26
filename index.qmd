@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Christopher D. Johnston | Political Psychology, Duke University"
+title-prefix: ""
 page-layout: full
 toc: false
 description: "Christopher D. Johnston — Professor of Political Science and Sociology at Duke University. Research on mass belief systems, political identity, and decision-making."
@@ -8,29 +10,77 @@ format:
     include-in-header:
       - text: |
           <link rel="canonical" href="https://cdjohnston.com/" />
+          <meta property="og:url" content="https://cdjohnston.com/" />
+          <meta property="og:type" content="profile" />
           <script type="application/ld+json">
           {
             "@context": "https://schema.org",
             "@type": "Person",
             "name": "Christopher D. Johnston",
+            "givenName": "Christopher",
+            "familyName": "Johnston",
             "url": "https://cdjohnston.com",
+            "image": "https://cdjohnston.com/images/headshot.jpg",
             "jobTitle": "Professor of Political Science and Sociology",
+            "description": "Professor of Political Science and Sociology at Duke University, studying mass belief systems, political ideology, personality and public opinion.",
             "worksFor": {
               "@type": "Organization",
-              "name": "Duke University"
+              "name": "Duke University",
+              "url": "https://duke.edu"
             },
-            "sameAs": [
-              "https://github.com/cdj19",
-              "https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en",
-              "https://osf.io/fruc2/"
+            "affiliation": [
+              {
+                "@type": "Organization",
+                "name": "Department of Political Science, Duke University",
+                "url": "https://polisci.duke.edu"
+              },
+              {
+                "@type": "Organization",
+                "name": "Kenan Institute for Ethics, Duke University",
+                "url": "https://kenan.ethics.duke.edu/worldview-lab/"
+              }
             ],
+            "alumniOf": [
+              {
+                "@type": "CollegeOrUniversity",
+                "name": "Stony Brook University",
+                "url": "https://www.stonybrook.edu"
+              },
+              {
+                "@type": "CollegeOrUniversity",
+                "name": "Wake Forest University",
+                "url": "https://www.wfu.edu"
+              }
+            ],
+            "knowsAbout": [
+              "Political psychology",
+              "Public opinion",
+              "Political ideology",
+              "Mass belief systems",
+              "Personality and politics",
+              "Political socialization",
+              "Judgment and decision making",
+              "Supreme Court legitimacy"
+            ],
+            "sameAs": [
+              "https://orcid.org/0000-0001-6704-7629",
+              "https://scholars.duke.edu/person/christopher.johnston",
+              "https://scholar.google.com/citations?user=NJtWbbIAAAAJ&hl=en",
+              "https://osf.io/fruc2/",
+              "https://github.com/cdj19"
+            ],
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "ORCID",
+              "value": "https://orcid.org/0000-0001-6704-7629"
+            },
             "email": "christopher.johnston@duke.edu"
           }
           </script>
 ---
 
 ::: {.hero}
-## Christopher D. Johnston {.hero-name}
+# Christopher D. Johnston
 
 **Professor of Political Science and Sociology at Duke University**
 
@@ -91,3 +141,15 @@ I am currently associate editor at the journal [*Political Psychology*](https://
 :::
 :::
 :::
+
+## Research
+
+I study how ordinary citizens form political beliefs, and why those beliefs hang together the way they do. Most of my work sits at the intersection of political psychology and public opinion, and returns to three questions: how political ideology is structured and measured, how personality and basic psychological dispositions shape policy preferences, and how the public evaluates political institutions — especially the U.S. Supreme Court.
+
+I have written three books. [*Curbing the Court: Why the Public Constrains Judicial Independence*](research.html) (Cambridge University Press, 2020, with Brandon L. Bartels) asks how mass opinion limits judicial independence. [*Open versus Closed: Personality, Identity, and the Politics of Redistribution*](research.html) (Cambridge University Press, 2017, with Howard G. Lavine and Christopher M. Federico) argues that the relationship between personality and economic ideology depends on political engagement; it received the David O. Sears Best Book on Mass Politics Award. [*The Ambivalent Partisan: How Critical Loyalty Promotes Democracy*](research.html) (Oxford University Press, 2012, with Howard G. Lavine and Marco R. Steenbergen) won both the Robert E. Lane Book Award and the David O. Sears Best Book Award.
+
+My articles appear in *Nature Human Behaviour*, the *American Journal of Political Science*, the *Journal of Politics*, *Public Opinion Quarterly*, *Political Psychology*, *Political Behavior*, and *Electoral Studies*, among other journals. A full list is on the [research page](research.html).
+
+My current project turns to political socialization — how children acquire values, partisan identities, and policy preferences in the first place — with support from Duke Bass Connections and the Institute for Humane Studies.
+
+I received my Ph.D. in Political Science from Stony Brook University in 2011 and my B.A. in Psychology from Wake Forest University in 2005, and I have taught at Duke since 2011. I teach [courses](teaching.html) on political psychology, ideology and public opinion, and regression methods. My full [CV](cv.html) is also available.

@@ -27,6 +27,9 @@ jobs:
       - name: Render Quarto site
         run: quarto render
 
+      - name: Canonicalize homepage URL in sitemap
+        run: sed -i "s|<loc>https://cdjohnston.com/index.html</loc>|<loc>https://cdjohnston.com/</loc>|" _site/sitemap.xml
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 

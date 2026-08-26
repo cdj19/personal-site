@@ -29,7 +29,8 @@ main.content {
   margin: 1rem 0 1.5rem;
 }
 
-.hero-name {
+.hero h1 {
+  font-size: 2rem;
   margin-bottom: 0.5rem;
 }
 
