@@ -142,14 +142,12 @@ I am currently associate editor at the journal [*Political Psychology*](https://
 :::
 :::
 
-## Research
-
 I study how ordinary citizens form political beliefs, and why those beliefs hang together the way they do. Most of my work sits at the intersection of political psychology and public opinion, and returns to three questions: how political ideology is structured and measured, how personality and basic psychological dispositions shape policy preferences, and how the public evaluates political institutions — especially the U.S. Supreme Court.
 
 I have written three books. [*Curbing the Court: Why the Public Constrains Judicial Independence*](research.html) (Cambridge University Press, 2020, with Brandon L. Bartels) asks how mass opinion limits judicial independence. [*Open versus Closed: Personality, Identity, and the Politics of Redistribution*](research.html) (Cambridge University Press, 2017, with Howard G. Lavine and Christopher M. Federico) argues that the relationship between personality and economic ideology depends on political engagement; it received the David O. Sears Best Book on Mass Politics Award. [*The Ambivalent Partisan: How Critical Loyalty Promotes Democracy*](research.html) (Oxford University Press, 2012, with Howard G. Lavine and Marco R. Steenbergen) won both the Robert E. Lane Book Award and the David O. Sears Best Book Award.
 
 My articles appear in *Nature Human Behaviour*, the *American Journal of Political Science*, the *Journal of Politics*, *Public Opinion Quarterly*, *Political Psychology*, *Political Behavior*, and *Electoral Studies*, among other journals. A full list is on the [research page](research.html).
 
-My current project turns to political socialization — how children acquire values, partisan identities, and policy preferences in the first place — with support from Duke Bass Connections and the Institute for Humane Studies.
+My current project turns to political socialization — how children acquire values, partisan identities, and policy preferences.
 
-I received my Ph.D. in Political Science from Stony Brook University in 2011 and my B.A. in Psychology from Wake Forest University in 2005, and I have taught at Duke since 2011. I teach [courses](teaching.html) on political psychology, ideology and public opinion, and regression methods. My full [CV](cv.html) is also available.
+I received my Ph.D. in Political Science from Stony Brook University in 2011 and my B.A. in Psychology from Wake Forest University in 2005, and I have taught at Duke since 2011. I teach [courses](teaching.html) on political behavior, political psychology, and methodology. My full [CV](cv.html) is also available.

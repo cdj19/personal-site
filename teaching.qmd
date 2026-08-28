@@ -1,14 +1,13 @@
 ---
 title: "Teaching"
 toc: false
-description: "Courses taught by Christopher D. Johnston at Duke University, including Political Psychology and graduate methods courses."
 format:
   html:
     include-in-header:
       - text: '<link rel="canonical" href="https://cdjohnston.com/teaching.html" />'
 ---
 
-I teach undergraduate and graduate courses at Duke on political psychology, ideology and public opinion, and quantitative methods, including linear regression. Syllabi and course sites are linked below.
+I teach undergraduate and graduate courses at Duke on political psychology and quantitative methods. Syllabi and course sites are linked below.
 
 ## Undergraduate Courses at Duke
 
