@@ -23,9 +23,17 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
 
       - name: Render Quarto site
         run: quarto render
+
+      - name: Verify CV PDF was built
+        run: test -s _site/cv.pdf
+
+      - name: Keep legacy /docs/cv.pdf URL in sync
+        run: cp _site/cv.pdf _site/docs/cv.pdf
 
       - name: Canonicalize homepage URL in sitemap
         run: sed -i "s|<loc>https://cdjohnston.com/index.html</loc>|<loc>https://cdjohnston.com/</loc>|" _site/sitemap.xml

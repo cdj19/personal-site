@@ -8,23 +8,22 @@ format:
     anchor-sections: false
     include-in-header:
       - text: '<link rel="canonical" href="https://cdjohnston.com/cv.html" />'
+  pdf:
+    pdf-engine: lualatex
+    documentclass: article
+    fontsize: 11pt
+    geometry: margin=1in
+    toc: false
+    colorlinks: true
+    urlcolor: "blue"
+    linkcolor: "blue"
 format-links: false
 execute:
   echo: false
 ---
 
-  <!-- pdf: -->
-  <!--   pdf-engine: lualatex -->
-  <!--   documentclass: article -->
-  <!--   fontsize: 11pt -->
-  <!--   geometry: margin=1in -->
-  <!--   toc: false -->
-  <!--   colorlinks: true -->
-  <!--   urlcolor: "blue" -->
-  <!--   linkcolor: "blue" -->
-
 ::: {.content-visible when-format="html"}
-[Download PDF](docs/cv.pdf){.btn .btn-primary .cv-download target="_blank" rel="noopener"}
+[Download PDF](cv.pdf){.btn .btn-primary .cv-download target="_blank" rel="noopener"}
 :::
 
 ::: {.cv-contact}
@@ -58,8 +57,8 @@ Website: [cdjohnston.com](https://cdjohnston.com)
 ## Articles
 
 ::: {.cv-hanging}
-- Johnston, Christopher D., David J. Ciuk, and Jesse Lopez. 2025. “Competing Moral Minds? Estimating Moral Disagreement in American Politics.” Political Psychology. <http://doi.org/10.1111/pops.70078>.
-- Opertti, Martín, and Christopher D. Johnston. 2025. “Linking Personality and Policy: The Moderating Roles of Cues and Frames.” Political Psychology 47(2): e70055.
+- Johnston, Christopher D., David J. Ciuk, and Jesse Lopez. 2026. “Competing Moral Minds? Estimating Moral Disagreement in American Politics.” Political Psychology 47(3): e70078.
+- Opertti, Martín, and Christopher D. Johnston. 2026. “Linking Personality and Policy: The Moderating Roles of Cues and Frames.” Political Psychology 47(2): e70055.
 - Trexler, Andrew, and Christopher D. Johnston. 2025. "An Ideology by Any Other Name." Political Behavior 47: 385-409.
 - Jenke, Libby, Christopher D. Johnston, and Gabriel Madson. 2025. "An Assessment of Citizens' Capacity for Prospective Issue Voting using Incentivized Forecasting." Quarterly Journal of Political Science 20 (1): 1-31.
 - Hjermitslev, Ida, and Christopher D. Johnston. 2023. "Mixed Evidence for a Relationship of Cognitive Fatigue to Political Engagement." Electoral Studies 83: 102621.
@@ -99,6 +98,8 @@ Website: [cdjohnston.com](https://cdjohnston.com)
 
 ## Awards
 
+- 2026 Lasting Contribution Award from the Law and Courts section of the American Political Science Association (for the paper "On the Ideological Foundations of Supreme Court Legitimacy in the American Public")
+- 2026 Best Article published in *Political Behavior* in the past year, from the Elections, Public Opinion, and Voting section of the American Political Science Association (for the article "An Ideology by Any Other Name")
 - 2018 David O. Sears Best Book on Mass Politics Award from the International Society of Political Psychology (for Open versus Closed)
 - 2013 Robert E. Lane Best Book Award from the Political Psychology section of the American Political Science Association (for The Ambivalent Partisan)
 - 2013 David O. Sears Best Book on Mass Politics Award from the International Society of Political Psychology (for The Ambivalent Partisan)

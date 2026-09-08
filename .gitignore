@@ -3,3 +3,6 @@
 
 /.quarto/
 .positai
+_site/
+.Rhistory
+.claude/settings.local.json
