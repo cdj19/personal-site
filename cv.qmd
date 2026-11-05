@@ -57,6 +57,7 @@ Website: [cdjohnston.com](https://cdjohnston.com)
 ## Articles
 
 ::: {.cv-hanging}
+- Johnston, Christopher D., Martín Opertti, and Turgut Keskintürk. Forthcoming. "Values and Political Preferences in Childhood." British Journal of Political Science.
 - Johnston, Christopher D., David J. Ciuk, and Jesse Lopez. 2026. “Competing Moral Minds? Estimating Moral Disagreement in American Politics.” Political Psychology 47(3): e70078.
 - Opertti, Martín, and Christopher D. Johnston. 2026. “Linking Personality and Policy: The Moderating Roles of Cues and Frames.” Political Psychology 47(2): e70055.
 - Trexler, Andrew, and Christopher D. Johnston. 2025. "An Ideology by Any Other Name." Political Behavior 47: 385-409.
