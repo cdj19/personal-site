@@ -51,7 +51,12 @@ Press.**
 
 ## Published articles
 
-- **Johnston, Christopher D., Martín Opertti, and Turgut Keskintürk. Forthcoming. "Values and Political Preferences in Childhood." British Journal of Political Science.**
+- **Johnston, Christopher D., Martín Opertti, and Turgut Keskintürk. Forthcoming. "Values and Political Preferences in Childhood." _British Journal of Political Science_.**
+
+  <div class="paper-links">
+    <a class="btn btn-outline-secondary btn-sm" href="https://tkeskinturk.github.io/values-politics.pdf" target="_blank" rel="noopener noreferrer">Preprint</a>
+    <a class="btn btn-outline-secondary btn-sm" href="https://doi.org/10.7910/DVN/QLIXDG" target="_blank" rel="noopener noreferrer">Data &amp; Reproduction</a>
+  </div>
 
 - **Ciuk, David, Christopher D. Johnston, and Jesse Lopez. 2026. "Competing Moral Minds? Estimating Moral Disagreement in American Politics." _Political Psychology_ 47(3): e70078.**
   <div class="paper-links">
